@@ -1,0 +1,5 @@
+.venv/
+/.venv/
+/uploads_rag/
+/chroma_db_rag
+.env
